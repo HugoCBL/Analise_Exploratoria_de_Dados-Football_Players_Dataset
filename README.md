@@ -76,7 +76,13 @@ cd seurepositorio
 pip install pandas numpy matplotlib seaborn scikit-learn umap-learn
 ```
 
-3. Abra o notebook:
+3. Certifique-se de que o arquivo do dataset esteja no mesmo diretório do notebook:
+
+```bash
+FootballPlayersDataset.csv
+```
+
+4. Abra o notebook:
 
 ```bash
 jupyter notebook
